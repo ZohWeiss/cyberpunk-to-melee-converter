@@ -1,0 +1,11 @@
+{
+  "name": "ctcg-to-melee",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Convert official Cyberpunk TCG decklists to Melee.gg format",
+  "scripts": {
+    "test": "node --test test/",
+    "fetch-cards": "node scripts/fetch-cards.js",
+    "generate-decks": "node scripts/generate-decks.js"
+  }
+}

@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Decklist to Melee.gg</title>
+  <meta name="description" content="Convert an official Cyberpunk TCG decklist into a Melee.gg-compatible decklist.">
+  <style>
+    :root {
+      --bg: #0e0f13;
+      --panel: #171920;
+      --border: #2a2d38;
+      --text: #e8e8ec;
+      --muted: #9a9cab;
+      --accent: #f3e600;
+      --accent-text: #111;
+      --ok: #3ddc97;
+      --warn: #ffb84d;
+      --radius: 10px;
+      color-scheme: dark;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f4f4f6;
+        --panel: #ffffff;
+        --border: #d6d7de;
+        --text: #16171c;
+        --muted: #5d5f6c;
+        --accent: #e0d400;
+        --ok: #138a57;
+        --warn: #a35f00;
+        color-scheme: light;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+    }
+    h1 { font-size: 1.6rem; margin: 0 0 4px; }
+    .sub { color: var(--muted); margin: 0 0 24px; }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+    }
+    @media (min-width: 800px) {
+      .grid { grid-template-columns: 1fr 1fr; }
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      min-width: 0;
+    }
+    label { font-weight: 600; }
+    textarea {
+      width: 100%;
+      min-height: 320px;
+      resize: vertical;
+      background: var(--bg);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px;
+      font: 14px/1.45 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+    .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    button {
+      appearance: none;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text);
+      border-radius: 8px;
+      padding: 12px 18px;
+      font: inherit;
+      font-weight: 600;
+      cursor: pointer;
+      min-height: 44px;
+    }
+    button.primary {
+      background: var(--accent);
+      color: var(--accent-text);
+      border-color: var(--accent);
+      flex: 1 1 auto;
+    }
+    button:disabled { opacity: .45; cursor: not-allowed; }
+    .status { font-size: .9rem; color: var(--muted); min-height: 1.5em; }
+    .status.ok { color: var(--ok); }
+    .status.warn { color: var(--warn); }
+    .warnings {
+      font-size: .85rem;
+      color: var(--warn);
+      margin: 0;
+      padding-left: 18px;
+    }
+    footer { margin-top: 32px; color: var(--muted); font-size: .85rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Decklist &rarr; Melee.gg</h1>
+    <p class="sub">Paste an official Cyberpunk TCG decklist and convert it to the format Melee.gg accepts.</p>
+
+    <div class="grid">
+      <section class="panel">
+        <label for="input">Official decklist</label>
+        <textarea id="input" spellcheck="false" placeholder="// Legends (3)
+1 Alt Cunningham: Soulkiller Architect
+...
+
+// Units (17)
+3 Jacked-In Voodoo Boy
+..."></textarea>
+        <div class="row">
+          <button id="convert" class="primary" type="button">Convert &amp; copy</button>
+          <button id="clear" type="button">Clear</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <label for="output">Melee.gg decklist</label>
+        <textarea id="output" spellcheck="false" readonly placeholder="Converted decklist appears here"></textarea>
+        <div class="row">
+          <button id="copy" class="primary" type="button" disabled>Copy</button>
+        </div>
+        <div id="status" class="status" role="status" aria-live="polite"></div>
+        <ul id="warnings" class="warnings"></ul>
+      </section>
+    </div>
+
+    <footer>Everything runs in your browser. Nothing is uploaded.</footer>
+  </main>
+
+  <script src="convert.js"></script>
+  <script>
+    (function () {
+      var input = document.getElementById("input");
+      var output = document.getElementById("output");
+      var convertBtn = document.getElementById("convert");
+      var copyBtn = document.getElementById("copy");
+      var clearBtn = document.getElementById("clear");
+      var status = document.getElementById("status");
+      var warningsEl = document.getElementById("warnings");
+
+      function setStatus(msg, kind) {
+        status.textContent = msg;
+        status.className = "status" + (kind ? " " + kind : "");
+      }
+
+      function copyText(text) {
+        if (navigator.clipboard && window.isSecureContext) {
+          return navigator.clipboard.writeText(text);
+        }
+        return new Promise(function (resolve, reject) {
+          output.focus();
+          output.select();
+          try {
+            document.execCommand("copy") ? resolve() : reject(new Error("copy failed"));
+          } catch (e) {
+            reject(e);
+          }
+        });
+      }
+
+      function summary(t) {
+        return t["MainDeck"] + " main deck, " + t["Legends"] + " legends, " + t["Sideboard"] + " sideboard";
+      }
+
+      function convertAndCopy() {
+        var result = convertDecklist(input.value);
+        output.value = result.output;
+        copyBtn.disabled = !result.output;
+
+        warningsEl.innerHTML = "";
+        result.warnings.forEach(function (w) {
+          var li = document.createElement("li");
+          li.textContent = w;
+          warningsEl.appendChild(li);
+        });
+
+        if (!result.output) {
+          setStatus("No cards found. Check the pasted decklist.", "warn");
+          return;
+        }
+
+        var counts = summary(result.totals);
+        copyText(result.output).then(
+          function () { setStatus("Copied to clipboard (" + counts + ").", "ok"); },
+          function () { setStatus("Converted (" + counts + "). Tap Copy to copy it."); }
+        );
+      }
+
+      convertBtn.addEventListener("click", convertAndCopy);
+
+      copyBtn.addEventListener("click", function () {
+        copyText(output.value).then(
+          function () { setStatus("Copied to clipboard.", "ok"); },
+          function () { setStatus("Couldn't copy automatically. Select the text and copy it manually.", "warn"); }
+        );
+      });
+
+      clearBtn.addEventListener("click", function () {
+        input.value = "";
+        output.value = "";
+        copyBtn.disabled = true;
+        warningsEl.innerHTML = "";
+        setStatus("");
+        input.focus();
+      });
+
+      // Ctrl/Cmd + Enter converts.
+      input.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) convertAndCopy();
+      });
+    })();
+  </script>
+</body>
+</html>

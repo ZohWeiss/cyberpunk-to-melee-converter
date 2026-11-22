@@ -1,0 +1,36 @@
+# Fake Deck 3
+# source: generated (Red)
+# id: fake-3
+
+// Legends (3)
+1 Dexter DeShawn: Off the Grid
+1 Rebecca: Having a Moment
+1 Royce: Psycho on the Edge
+
+// Units (24)
+3 6th Street Recruits
+3 Animals Wrecker
+3 Johnny Silverhand: Never Stop Fighting
+2 Kerry Eurodyne: The Last Rockerboy
+3 La Llorona: Ghost of the Past
+2 Meredith Stout: Stone Cold Corpo
+2 Octant
+1 Royce: Don't Call Me Simon
+2 Ruthless Lowlife
+2 Screw: Lovelorn Fool
+1 Swordwise Huscle
+
+// Gear (3)
+3 Satori: Sword of Saburo
+
+// Programs (13)
+3 Detonate
+3 Gunpoint Diplomacy
+2 Industrial Assembly
+3 Over the Edge
+2 Shattered Memories
+
+// Sideboard (7)
+2 Royce: Don't Call Me Simon
+2 Valentino Guerrera
+3 Yorinobu Arasaka: Steel Dragon

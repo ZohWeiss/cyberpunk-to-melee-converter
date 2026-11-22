@@ -1,0 +1,24 @@
+MainDeck
+3 6th Street Recruits
+1 Chrome Fang
+1 Japantown Jonin
+3 Lizzy Wizzy | Delicate Weapon
+2 Maman Brigitte | Spirit of Death
+1 Misty Olszewski | Mender of Broken Spirits
+1 Modded Kusanagi
+3 Swordwise Huscle
+3 Valentino Guerrera
+3 Westbrook Netrunner
+1 Yorinobu Arasaka | Steel Dragon
+3 Arasaka Emergency Radioport
+2 Mantis Blades
+3 Appetite for Destruction
+1 Bonnie and Clyde
+3 Detonate
+3 Towerfall
+3 Trust No One
+
+Legends
+1 Evelyn Parker | Beautiful Enigma
+1 Sasha Yakovleva | Won't Let You Down
+1 V | Corporate Exile

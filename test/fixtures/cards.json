@@ -1,0 +1,1066 @@
+[
+  {
+    "name": "(Don't Fear) The Reaper",
+    "subname": null,
+    "displayName": "(Don't Fear) The Reaper",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "6th Street Recruits",
+    "subname": null,
+    "displayName": "6th Street Recruits",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Adam Smasher",
+    "subname": "Ender of Legends",
+    "displayName": "Adam Smasher: Ender of Legends",
+    "type": "Legend",
+    "color": "Red"
+  },
+  {
+    "name": "Adam Smasher",
+    "subname": "Metal Over Meat",
+    "displayName": "Adam Smasher: Metal Over Meat",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Adrenaline Converter",
+    "subname": null,
+    "displayName": "Adrenaline Converter",
+    "type": "Gear",
+    "color": "Yellow"
+  },
+  {
+    "name": "Afterparty at Lizzie's",
+    "subname": null,
+    "displayName": "Afterparty at Lizzie's",
+    "type": "Program",
+    "color": "Yellow"
+  },
+  {
+    "name": "All is Lost",
+    "subname": null,
+    "displayName": "All is Lost",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Alt Cunningham",
+    "subname": "Mother of Daemons",
+    "displayName": "Alt Cunningham: Mother of Daemons",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Alt Cunningham",
+    "subname": "Soulkiller Architect",
+    "displayName": "Alt Cunningham: Soulkiller Architect",
+    "type": "Legend",
+    "color": "Blue"
+  },
+  {
+    "name": "Animals Wrecker",
+    "subname": null,
+    "displayName": "Animals Wrecker",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Appetite for Destruction",
+    "subname": null,
+    "displayName": "Appetite for Destruction",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Arasaka Emergency Radioport",
+    "subname": null,
+    "displayName": "Arasaka Emergency Radioport",
+    "type": "Gear",
+    "color": "Red"
+  },
+  {
+    "name": "Augmented Negotiators",
+    "subname": null,
+    "displayName": "Augmented Negotiators",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Bonnie and Clyde",
+    "subname": null,
+    "displayName": "Bonnie and Clyde",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Bootleg Black Sapphire Show",
+    "subname": null,
+    "displayName": "Bootleg Black Sapphire Show",
+    "type": "Program",
+    "color": "Yellow"
+  },
+  {
+    "name": "Caliber",
+    "subname": "Totentanz's Top Dog",
+    "displayName": "Caliber: Totentanz's Top Dog",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Carnage at the Colosseum",
+    "subname": null,
+    "displayName": "Carnage at the Colosseum",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Chrome Fang",
+    "subname": null,
+    "displayName": "Chrome Fang",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Chrome Reverie",
+    "subname": null,
+    "displayName": "Chrome Reverie",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Corpo Security",
+    "subname": null,
+    "displayName": "Corpo Security",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Corporate Surveillance",
+    "subname": null,
+    "displayName": "Corporate Surveillance",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "Cyberpsychosis",
+    "subname": null,
+    "displayName": "Cyberpsychosis",
+    "type": "Program",
+    "color": "Yellow"
+  },
+  {
+    "name": "Deadman Transmitter",
+    "subname": null,
+    "displayName": "Deadman Transmitter",
+    "type": "Gear",
+    "color": "Red"
+  },
+  {
+    "name": "Delamain Cab",
+    "subname": null,
+    "displayName": "Delamain Cab",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Delamain",
+    "subname": "Rideshare AI",
+    "displayName": "Delamain: Rideshare AI",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Detonate",
+    "subname": null,
+    "displayName": "Detonate",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Dexter DeShawn",
+    "subname": "Off the Grid",
+    "displayName": "Dexter DeShawn: Off the Grid",
+    "type": "Legend",
+    "color": "Red"
+  },
+  {
+    "name": "Dexter DeShawn",
+    "subname": "One Last Chance",
+    "displayName": "Dexter DeShawn: One Last Chance",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Dum Dum",
+    "subname": "Maelstrom Triggerman",
+    "displayName": "Dum Dum: Maelstrom Triggerman",
+    "type": "Legend",
+    "color": "Yellow"
+  },
+  {
+    "name": "Dying Night",
+    "subname": "V's Pistol",
+    "displayName": "Dying Night: V's Pistol",
+    "type": "Gear",
+    "color": "Blue"
+  },
+  {
+    "name": "El Sombrerón",
+    "subname": "La Venganza Lenta",
+    "displayName": "El Sombrerón: La Venganza Lenta",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Emergency Atlus",
+    "subname": null,
+    "displayName": "Emergency Atlus",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Evelyn Parker",
+    "subname": "Beautiful Enigma",
+    "displayName": "Evelyn Parker: Beautiful Enigma",
+    "type": "Legend",
+    "color": "Blue"
+  },
+  {
+    "name": "Evelyn Parker",
+    "subname": "Scheming Siren",
+    "displayName": "Evelyn Parker: Scheming Siren",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Field Operator",
+    "subname": null,
+    "displayName": "Field Operator",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Floor It",
+    "subname": null,
+    "displayName": "Floor It",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Fool on the Hill",
+    "subname": null,
+    "displayName": "Fool on the Hill",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "Gilded Matón",
+    "subname": null,
+    "displayName": "Gilded Matón",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Gorilla Arms",
+    "subname": null,
+    "displayName": "Gorilla Arms",
+    "type": "Gear",
+    "color": "Yellow"
+  },
+  {
+    "name": "Goro Takemura",
+    "subname": "Hands Unclean",
+    "displayName": "Goro Takemura: Hands Unclean",
+    "type": "Legend",
+    "color": "Green"
+  },
+  {
+    "name": "Goro Takemura",
+    "subname": "Losing His Way",
+    "displayName": "Goro Takemura: Losing His Way",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Goro Takemura",
+    "subname": "Vengeful Bodyguard",
+    "displayName": "Goro Takemura: Vengeful Bodyguard",
+    "type": "Legend",
+    "color": "Green"
+  },
+  {
+    "name": "Gunpoint Diplomacy",
+    "subname": null,
+    "displayName": "Gunpoint Diplomacy",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Hacked Corpo",
+    "subname": null,
+    "displayName": "Hacked Corpo",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Hanako Arasaka",
+    "subname": "Daughter of the Emperor",
+    "displayName": "Hanako Arasaka: Daughter of the Emperor",
+    "type": "Legend",
+    "color": "Green"
+  },
+  {
+    "name": "Hanako Arasaka",
+    "subname": "In a Gilded Cage",
+    "displayName": "Hanako Arasaka: In a Gilded Cage",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Heywood Ripperdoc",
+    "subname": null,
+    "displayName": "Heywood Ripperdoc",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Industrial Assembly",
+    "subname": null,
+    "displayName": "Industrial Assembly",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Jacked-In Voodoo Boy",
+    "subname": null,
+    "displayName": "Jacked-In Voodoo Boy",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Jackie Welles",
+    "subname": "Mama's Favorite",
+    "displayName": "Jackie Welles: Mama's Favorite",
+    "type": "Legend",
+    "color": "Green"
+  },
+  {
+    "name": "Jackie Welles",
+    "subname": "Pour One Out For Me",
+    "displayName": "Jackie Welles: Pour One Out For Me",
+    "type": "Legend",
+    "color": "Blue"
+  },
+  {
+    "name": "Jackie Welles",
+    "subname": "Ride or Die Choom",
+    "displayName": "Jackie Welles: Ride or Die Choom",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Japantown Jonin",
+    "subname": null,
+    "displayName": "Japantown Jonin",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Johnny Silverhand",
+    "subname": "Never Stop Fighting",
+    "displayName": "Johnny Silverhand: Never Stop Fighting",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Johnny Silverhand",
+    "subname": "Rocking Renegade",
+    "displayName": "Johnny Silverhand: Rocking Renegade",
+    "type": "Legend",
+    "color": "Red"
+  },
+  {
+    "name": "Judy Álvarez",
+    "subname": "Braindance Maestro",
+    "displayName": "Judy Álvarez: Braindance Maestro",
+    "type": "Legend",
+    "color": "Blue"
+  },
+  {
+    "name": "Judy Álvarez",
+    "subname": "Nothing to Doubt",
+    "displayName": "Judy Álvarez: Nothing to Doubt",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Kerry Eurodyne",
+    "subname": "Axe, Attitude, Audience",
+    "displayName": "Kerry Eurodyne: Axe, Attitude, Audience",
+    "type": "Legend",
+    "color": "Yellow"
+  },
+  {
+    "name": "Kerry Eurodyne",
+    "subname": "The Last Rockerboy",
+    "displayName": "Kerry Eurodyne: The Last Rockerboy",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Kiroshi Optics",
+    "subname": null,
+    "displayName": "Kiroshi Optics",
+    "type": "Gear",
+    "color": "Yellow"
+  },
+  {
+    "name": "La Llorona",
+    "subname": "Ghost of the Past",
+    "displayName": "La Llorona: Ghost of the Past",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Les Élémens",
+    "subname": null,
+    "displayName": "Les Élémens",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Live with the Aftermath",
+    "subname": null,
+    "displayName": "Live with the Aftermath",
+    "type": "Program",
+    "color": "Yellow"
+  },
+  {
+    "name": "Lizzy Wizzy",
+    "subname": "Delicate Weapon",
+    "displayName": "Lizzy Wizzy: Delicate Weapon",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Lucyna Kushinada",
+    "subname": "Fresh Beginnings",
+    "displayName": "Lucyna Kushinada: Fresh Beginnings",
+    "type": "Legend",
+    "color": "Blue"
+  },
+  {
+    "name": "Maelstrom Goons",
+    "subname": null,
+    "displayName": "Maelstrom Goons",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Maelstrom Zealots",
+    "subname": null,
+    "displayName": "Maelstrom Zealots",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Maman Brigitte",
+    "subname": "Spirit of Death",
+    "displayName": "Maman Brigitte: Spirit of Death",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Mandibular Upgrade",
+    "subname": null,
+    "displayName": "Mandibular Upgrade",
+    "type": "Gear",
+    "color": "Yellow"
+  },
+  {
+    "name": "Mantis Blades",
+    "subname": null,
+    "displayName": "Mantis Blades",
+    "type": "Gear",
+    "color": "Red"
+  },
+  {
+    "name": "MaxTac AV",
+    "subname": null,
+    "displayName": "MaxTac AV",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "MaxTac Heavy",
+    "subname": null,
+    "displayName": "MaxTac Heavy",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "MaxTac Squadron",
+    "subname": null,
+    "displayName": "MaxTac Squadron",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "MaxTac Suppression Team",
+    "subname": null,
+    "displayName": "MaxTac Suppression Team",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Memory Relapse",
+    "subname": null,
+    "displayName": "Memory Relapse",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "Meredith Stout",
+    "subname": "Stone Cold Corpo",
+    "displayName": "Meredith Stout: Stone Cold Corpo",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Minotaur",
+    "subname": null,
+    "displayName": "Minotaur",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Misty Olszewski",
+    "subname": "Mender of Broken Spirits",
+    "displayName": "Misty Olszewski: Mender of Broken Spirits",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Modded Kusanagi",
+    "subname": null,
+    "displayName": "Modded Kusanagi",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Modded Muramasa",
+    "subname": null,
+    "displayName": "Modded Muramasa",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Mox Inciters",
+    "subname": null,
+    "displayName": "Mox Inciters",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "MT0D12 Flathead",
+    "subname": null,
+    "displayName": "MT0D12 Flathead",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Muamar Reyes",
+    "subname": "El Capitán",
+    "displayName": "Muamar Reyes: El Capitán",
+    "type": "Legend",
+    "color": "Yellow"
+  },
+  {
+    "name": "Nadia",
+    "subname": "Fighting Through Grief",
+    "displayName": "Nadia: Fighting Through Grief",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "NetWatch Netdriver",
+    "subname": null,
+    "displayName": "NetWatch Netdriver",
+    "type": "Gear",
+    "color": "Blue"
+  },
+  {
+    "name": "Nocturne OP55 N1",
+    "subname": null,
+    "displayName": "Nocturne OP55 N1",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Octant",
+    "subname": null,
+    "displayName": "Octant",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Offduty Malfini",
+    "subname": null,
+    "displayName": "Offduty Malfini",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Over the Edge",
+    "subname": null,
+    "displayName": "Over the Edge",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Overwatch",
+    "subname": "Panam's Gift",
+    "displayName": "Overwatch: Panam's Gift",
+    "type": "Gear",
+    "color": "Green"
+  },
+  {
+    "name": "Pacifica Netrunner",
+    "subname": null,
+    "displayName": "Pacifica Netrunner",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Padre",
+    "subname": "Man of the Cross",
+    "displayName": "Padre: Man of the Cross",
+    "type": "Legend",
+    "color": "Green"
+  },
+  {
+    "name": "Panam Palmer",
+    "subname": "Nomad Cavalry",
+    "displayName": "Panam Palmer: Nomad Cavalry",
+    "type": "Legend",
+    "color": "Green"
+  },
+  {
+    "name": "Panam Palmer",
+    "subname": "Strength Through Family",
+    "displayName": "Panam Palmer: Strength Through Family",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Peace Offering",
+    "subname": null,
+    "displayName": "Peace Offering",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "Pepe Najarro",
+    "subname": "Working Doubles",
+    "displayName": "Pepe Najarro: Working Doubles",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Placide",
+    "subname": "Voodoo Sentinel",
+    "displayName": "Placide: Voodoo Sentinel",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Psycho Squad",
+    "subname": null,
+    "displayName": "Psycho Squad",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Pyramid Song",
+    "subname": null,
+    "displayName": "Pyramid Song",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Rebecca",
+    "subname": "Having a Moment",
+    "displayName": "Rebecca: Having a Moment",
+    "type": "Legend",
+    "color": "Red"
+  },
+  {
+    "name": "Reboot Optics",
+    "subname": null,
+    "displayName": "Reboot Optics",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Riding Nomad",
+    "subname": null,
+    "displayName": "Riding Nomad",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Riot Shield",
+    "subname": null,
+    "displayName": "Riot Shield",
+    "type": "Gear",
+    "color": "Green"
+  },
+  {
+    "name": "Rita Wheeler",
+    "subname": "No Stupid Questions",
+    "displayName": "Rita Wheeler: No Stupid Questions",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "River Ward",
+    "subname": "Detective on the Hunt",
+    "displayName": "River Ward: Detective on the Hunt",
+    "type": "Legend",
+    "color": "Yellow"
+  },
+  {
+    "name": "Rockn' Rockerboy",
+    "subname": null,
+    "displayName": "Rockn' Rockerboy",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Rogue Amendiares",
+    "subname": "Preem Solo",
+    "displayName": "Rogue Amendiares: Preem Solo",
+    "type": "Legend",
+    "color": "Yellow"
+  },
+  {
+    "name": "Rogue Amendiares",
+    "subname": "Queen of the Afterlife",
+    "displayName": "Rogue Amendiares: Queen of the Afterlife",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Royce",
+    "subname": "Don't Call Me Simon",
+    "displayName": "Royce: Don't Call Me Simon",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Royce",
+    "subname": "Psycho on the Edge",
+    "displayName": "Royce: Psycho on the Edge",
+    "type": "Legend",
+    "color": "Red"
+  },
+  {
+    "name": "Ruthless Lowlife",
+    "subname": null,
+    "displayName": "Ruthless Lowlife",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Saburo Arasaka",
+    "subname": "Stubborn Patriarch",
+    "displayName": "Saburo Arasaka: Stubborn Patriarch",
+    "type": "Legend",
+    "color": "Green"
+  },
+  {
+    "name": "Safety Override",
+    "subname": null,
+    "displayName": "Safety Override",
+    "type": "Program",
+    "color": "Yellow"
+  },
+  {
+    "name": "Sandayu Oda",
+    "subname": "Hanako's Guardian",
+    "displayName": "Sandayu Oda: Hanako's Guardian",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Sandevistan",
+    "subname": null,
+    "displayName": "Sandevistan",
+    "type": "Gear",
+    "color": "Green"
+  },
+  {
+    "name": "Sasha Yakovleva",
+    "subname": "Won't Let You Down",
+    "displayName": "Sasha Yakovleva: Won't Let You Down",
+    "type": "Legend",
+    "color": "Blue"
+  },
+  {
+    "name": "Satori",
+    "subname": "Sword of Saburo",
+    "displayName": "Satori: Sword of Saburo",
+    "type": "Gear",
+    "color": "Red"
+  },
+  {
+    "name": "Saul Bright",
+    "subname": "Stormrider",
+    "displayName": "Saul Bright: Stormrider",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Screw",
+    "subname": "Lovelorn Fool",
+    "displayName": "Screw: Lovelorn Fool",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Secondhand Bombus",
+    "subname": null,
+    "displayName": "Secondhand Bombus",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Shattered Memories",
+    "subname": null,
+    "displayName": "Shattered Memories",
+    "type": "Program",
+    "color": "Red"
+  },
+  {
+    "name": "Sketchy Ripper",
+    "subname": null,
+    "displayName": "Sketchy Ripper",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Swordwise Huscle",
+    "subname": null,
+    "displayName": "Swordwise Huscle",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Synapse Burnout",
+    "subname": null,
+    "displayName": "Synapse Burnout",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "T-Bug",
+    "subname": "Amateur Philosopher",
+    "displayName": "T-Bug: Amateur Philosopher",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Take Control",
+    "subname": null,
+    "displayName": "Take Control",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "Tetratronic Rippler",
+    "subname": null,
+    "displayName": "Tetratronic Rippler",
+    "type": "Gear",
+    "color": "Blue"
+  },
+  {
+    "name": "The Heist",
+    "subname": null,
+    "displayName": "The Heist",
+    "type": "Program",
+    "color": "Yellow"
+  },
+  {
+    "name": "The Relic",
+    "subname": "Experimental Biochip",
+    "displayName": "The Relic: Experimental Biochip",
+    "type": "Gear",
+    "color": "Yellow"
+  },
+  {
+    "name": "Three Mouths, One Desire",
+    "subname": null,
+    "displayName": "Three Mouths, One Desire",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Towerfall",
+    "subname": null,
+    "displayName": "Towerfall",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Trauma Team Operatives",
+    "subname": null,
+    "displayName": "Trauma Team Operatives",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Trust No One",
+    "subname": null,
+    "displayName": "Trust No One",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "Tyger's Whisper",
+    "subname": null,
+    "displayName": "Tyger's Whisper",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Unlikely Bond",
+    "subname": null,
+    "displayName": "Unlikely Bond",
+    "type": "Program",
+    "color": "Blue"
+  },
+  {
+    "name": "V",
+    "subname": "Corporate Exile",
+    "displayName": "V: Corporate Exile",
+    "type": "Legend",
+    "color": "Blue"
+  },
+  {
+    "name": "V",
+    "subname": "Roamer of the Badlands",
+    "displayName": "V: Roamer of the Badlands",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "V",
+    "subname": "Streetkid",
+    "displayName": "V: Streetkid",
+    "type": "Legend",
+    "color": "Red"
+  },
+  {
+    "name": "Valentino Guerrera",
+    "subname": null,
+    "displayName": "Valentino Guerrera",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Valentino Street Racer",
+    "subname": null,
+    "displayName": "Valentino Street Racer",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Viktor Vektor",
+    "subname": "Drop Your Illusions",
+    "displayName": "Viktor Vektor: Drop Your Illusions",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Viktor Vektor",
+    "subname": "Sit Down and Relax",
+    "displayName": "Viktor Vektor: Sit Down and Relax",
+    "type": "Legend",
+    "color": "Yellow"
+  },
+  {
+    "name": "Viktor Vektor",
+    "subname": "You Might Feel a Little Pinch",
+    "displayName": "Viktor Vektor: You Might Feel a Little Pinch",
+    "type": "Unit",
+    "color": "Yellow"
+  },
+  {
+    "name": "Wakako Okada",
+    "subname": "Peace and Harmony",
+    "displayName": "Wakako Okada: Peace and Harmony",
+    "type": "Legend",
+    "color": "Blue"
+  },
+  {
+    "name": "We Gotta Live Together",
+    "subname": null,
+    "displayName": "We Gotta Live Together",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "Westbrook Netrunner",
+    "subname": null,
+    "displayName": "Westbrook Netrunner",
+    "type": "Unit",
+    "color": "Blue"
+  },
+  {
+    "name": "Wild in the Streets",
+    "subname": null,
+    "displayName": "Wild in the Streets",
+    "type": "Program",
+    "color": "Green"
+  },
+  {
+    "name": "Wraith Marauders",
+    "subname": null,
+    "displayName": "Wraith Marauders",
+    "type": "Unit",
+    "color": "Green"
+  },
+  {
+    "name": "Yorinobu Arasaka",
+    "subname": "Embracing Destruction",
+    "displayName": "Yorinobu Arasaka: Embracing Destruction",
+    "type": "Legend",
+    "color": "Red"
+  },
+  {
+    "name": "Yorinobu Arasaka",
+    "subname": "Steel Dragon",
+    "displayName": "Yorinobu Arasaka: Steel Dragon",
+    "type": "Unit",
+    "color": "Red"
+  },
+  {
+    "name": "Zetatech Berserk",
+    "subname": null,
+    "displayName": "Zetatech Berserk",
+    "type": "Gear",
+    "color": "Green"
+  },
+  {
+    "name": "Zetatech Faceplate",
+    "subname": null,
+    "displayName": "Zetatech Faceplate",
+    "type": "Gear",
+    "color": "Yellow"
+  }
+]

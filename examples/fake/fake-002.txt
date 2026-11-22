@@ -1,0 +1,32 @@
+# Fake Deck 2
+# source: generated (Red/Blue)
+# id: fake-2
+
+// Legends (3)
+1 Evelyn Parker: Beautiful Enigma
+1 Sasha Yakovleva: Won't Let You Down
+1 V: Corporate Exile
+
+// Units (22)
+3 6th Street Recruits
+1 Chrome Fang
+1 Japantown Jonin
+3 Lizzy Wizzy: Delicate Weapon
+2 Maman Brigitte: Spirit of Death
+1 Misty Olszewski: Mender of Broken Spirits
+1 Modded Kusanagi
+3 Swordwise Huscle
+3 Valentino Guerrera
+3 Westbrook Netrunner
+1 Yorinobu Arasaka: Steel Dragon
+
+// Gear (5)
+3 Arasaka Emergency Radioport
+2 Mantis Blades
+
+// Programs (13)
+3 Appetite for Destruction
+1 Bonnie and Clyde
+3 Detonate
+3 Towerfall
+3 Trust No One

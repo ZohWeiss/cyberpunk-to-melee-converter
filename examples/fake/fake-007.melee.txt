@@ -1,0 +1,30 @@
+MainDeck
+1 Adam Smasher | Metal Over Meat
+2 Dexter DeShawn | One Last Chance
+1 El Sombrerón | La Venganza Lenta
+2 Jackie Welles | Ride or Die Choom
+3 Maelstrom Goons
+3 Minotaur
+2 Octant
+1 Offduty Malfini
+1 Rockn' Rockerboy
+3 Screw | Lovelorn Fool
+2 V | Roamer of the Badlands
+3 Valentino Guerrera
+3 Viktor Vektor | Drop Your Illusions
+2 Viktor Vektor | You Might Feel a Little Pinch
+1 Yorinobu Arasaka | Steel Dragon
+3 Adrenaline Converter
+3 Arasaka Emergency Radioport
+1 The Relic | Experimental Biochip
+3 Gunpoint Diplomacy
+
+Legends
+1 River Ward | Detective on the Hunt
+1 Rogue Amendiares | Preem Solo
+1 Yorinobu Arasaka | Embracing Destruction
+
+Sideboard
+2 Live with the Aftermath
+2 Swordwise Huscle
+3 Trauma Team Operatives

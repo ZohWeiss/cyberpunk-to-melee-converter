@@ -1,0 +1,32 @@
+MainDeck
+1 Corpo Security
+1 La Llorona | Ghost of the Past
+3 MaxTac Squadron
+3 Meredith Stout | Stone Cold Corpo
+3 Pepe Najarro | Working Doubles
+2 MaxTac AV
+3 Johnny Silverhand | Never Stop Fighting
+1 Nadia | Fighting Through Grief
+1 Saul Bright | Stormrider
+3 Mantis Blades
+1 Arasaka Emergency Radioport
+2 Riot Shield
+1 Satori | Sword of Saburo
+3 Sandevistan
+3 Overwatch | Panam's Gift
+3 Detonate
+3 Peace Offering
+3 Memory Relapse
+2 Wild in the Streets
+3 (Don't Fear) The Reaper
+
+Legends
+1 Padre | Man of the Cross
+1 V | Streetkid
+1 Jackie Welles | Mama's Favorite
+
+Sideboard
+2 Riding Nomad
+2 Royce | Don't Call Me Simon
+1 Synapse Burnout
+2 Take Control

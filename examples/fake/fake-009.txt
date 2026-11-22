@@ -1,0 +1,40 @@
+# Fake Deck 9
+# source: generated (Red/Blue)
+# id: fake-9
+
+// Legends (3)
+1 Adam Smasher: Ender of Legends
+1 Lucyna Kushinada: Fresh Beginnings
+1 V: Streetkid
+
+// Units (29)
+3 Animals Wrecker
+3 Delamain: Rideshare AI
+2 Meredith Stout: Stone Cold Corpo
+1 Misty Olszewski: Mender of Broken Spirits
+3 Modded Kusanagi
+3 Modded Muramasa
+3 Mox Inciters
+3 Octant
+2 Placide: Voodoo Sentinel
+3 Rita Wheeler: No Stupid Questions
+3 Westbrook Netrunner
+
+// Gear (5)
+2 NetWatch Netdriver
+1 Satori: Sword of Saburo
+2 Tetratronic Rippler
+
+// Programs (15)
+3 All is Lost
+2 Bonnie and Clyde
+3 Detonate
+3 Over the Edge
+3 Shattered Memories
+1 Three Mouths, One Desire
+
+// Sideboard (7)
+1 Royce: Don't Call Me Simon
+2 Satori: Sword of Saburo
+3 V: Roamer of the Badlands
+1 Valentino Guerrera

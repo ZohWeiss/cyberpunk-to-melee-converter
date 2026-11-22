@@ -1,0 +1,43 @@
+# Fake Deck 10
+# source: generated (Green/Red)
+# id: fake-10
+
+// Legends (3)
+1 Goro Takemura: Vengeful Bodyguard
+1 V: Streetkid
+1 Yorinobu Arasaka: Embracing Destruction
+
+// Units (33)
+3 Chrome Fang
+3 Corpo Security
+1 El Sombrerón: La Venganza Lenta
+3 Emergency Atlus
+2 Johnny Silverhand: Never Stop Fighting
+3 MaxTac Heavy
+1 Minotaur
+1 Nadia: Fighting Through Grief
+1 Pacifica Netrunner
+3 Panam Palmer: Strength Through Family
+3 Pepe Najarro: Working Doubles
+1 Royce: Don't Call Me Simon
+2 Ruthless Lowlife
+3 Tyger's Whisper
+3 V: Roamer of the Badlands
+
+// Gear (3)
+3 Sandevistan
+
+// Programs (14)
+1 Appetite for Destruction
+2 Carnage at the Colosseum
+3 Industrial Assembly
+3 Memory Relapse
+2 Over the Edge
+3 Peace Offering
+
+// Sideboard (7)
+1 Corporate Surveillance
+1 Detonate
+1 Over the Edge
+1 Take Control
+3 Zetatech Berserk
